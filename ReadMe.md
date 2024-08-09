@@ -1,18 +1,27 @@
-# 💫 About Me:
- Olá eu sou o Pablo Guedes🖐
 
+### Olá eu sou o Pablo Guedes🖐
 
-## 🌐 Socials:
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/guedszx_rp) 
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/guedszx_rp)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@guedesff5222)
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pabloguedess&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pabloguedess&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloguedess&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pabloguedess&show_icons=true&theme=dark)
 
----
-[![](https://visitcount.itsvg.in/api?id=pabloguedess&icon=2&color=12)](https://visitcount.itsvg.in)
+## Main skills:
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div style="display: inline_block"><br/>
+   <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+   <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+   <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+</div>
+
+### Tools:
+
+<div>
+<img align="center" alt="visual" src="https://camo.githubusercontent.com/6f670547c334befe4d0acbd55e1e4ec57ff10b0c0f2ac1db30bde64b0811c98f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d56697375616c2d53747564696f2d436f6465266c6162656c436f6c6f723d304431313137"/>
+<img align="center" alt="visual" src="https://camo.githubusercontent.com/a56a3be3a3edd58a81a6981fb5dbb49612f3921d5fb6a0fd3c80edd59f958db6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d476974487562266c6162656c436f6c6f723d304431313137"/>
+<img align="center" alt="visual" src="https://camo.githubusercontent.com/e66a88fe7ad92ec6999016d55691ff6bfa19b1c9537e159e5f5435c7212bd085/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57696e646f77732d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d57696e646f7773266c6162656c436f6c6f723d304431313137"/>
+<img align="center" alt="visual" src="https://camo.githubusercontent.com/dff7648b5aa2cc044e51771985fb1f757b66822ed0bf396d7d81fc7bf0021454/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6963726f736f66745f4f66666963652d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d4d6963726f736f66742d4f6666696365266c6162656c436f6c6f723d304431313137"/>
+</div>
