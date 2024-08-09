@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=15F721&width=435&lines=HELLO%2C+MY+NAME+IS+Pablo+Guedes;I'm+18+years+old;I+from+Brasil%2C+SP;Be+Welcome!+%3A)" alt="Typing SVG" /></a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pabloguedess&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pabloguedess&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloguedess&layout=compact&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)
 
