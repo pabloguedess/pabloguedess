@@ -18,7 +18,7 @@
    <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 </div>
 
-### Tools:
+<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">Main skills:</h3>
 
 <div>
 <img align="center" alt="visual" src="https://camo.githubusercontent.com/6f670547c334befe4d0acbd55e1e4ec57ff10b0c0f2ac1db30bde64b0811c98f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d56697375616c2d53747564696f2d436f6465266c6162656c436f6c6f723d304431313137"/>
