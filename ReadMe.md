@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=15F721&width=435&lines=HELLO%2C+MY+NAME+IS+Pablo+Guedes;I'm+18+years+old;I+from+Brasil%2C+SP;Be+Welcome!+%3A))](https://git.io/typing-svg
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=15F721&width=435&lines=HELLO%2C+MY+NAME+IS+Pablo+Guedes;I'm+18+years+old;I+from+Brasil%2C+SP;Be+Welcome!+%3A))](https://git.io/typing-svg))
 
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/guedszx_rp)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@guedesff5222)
